@@ -17,9 +17,9 @@ export default function About() {
           Comprometido con el desarrollo profesional, la estabilidad laboral y el crecimiento intelectual.
         </p>
         <div className="mt-8 text-sm text-gray-400 space-y-1">
-          <p>📍 Lima, Perú</p>
-          <p>📧 aymarmolina9@gmail.com</p>
-          <p>📞 +51 922 366 671</p>
+          <p>Lima, Perú</p>
+          <p>aymarmolina9@gmail.com</p>
+          <p>+51 922 366 671</p>
           <a
             href="https://www.linkedin.com/in/aymar-molina-568ba2284"
             className="text-blue-400 hover:underline"
