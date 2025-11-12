@@ -20,6 +20,15 @@ export default function About() {
           <p>Lima, Perú</p>
           <p>aymarmolina9@gmail.com</p>
           <p>+51 922 366 671</p>
+          
+          <a
+            href="https://github.com/AymarMolina"
+            className="text-blue-400 hover:underline"
+            target="_blank"
+          >
+            LinkedIn
+          </a>
+          <hr />
           <a
             href="https://www.linkedin.com/in/aymar-molina-568ba2284"
             className="text-blue-400 hover:underline"
