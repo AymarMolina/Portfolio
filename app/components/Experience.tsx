@@ -11,7 +11,7 @@ export default function Experience() {
         "Desarrollo de componentes dinámicos con Angular y APIs REST en AWS.",
         "Implementación de CI/CD reduciendo tiempos de despliegue en más de 80%.",
         "Backend con Node.js, SpringBoot y PostgreSQL.",
-        "Autenticación con JWT y sesiones seguras.",
+        "Autenticación con JWT, sesiones seguras e implementacion de pasarelas de pago.",
         "Trabajo ágil con metodología Scrum."
       ],
     },

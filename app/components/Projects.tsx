@@ -121,7 +121,6 @@ export default function Projects() {
                     rel="noopener noreferrer"
                     className="flex items-center gap-2 bg-gradient-to-r from-blue-500 to-purple-500 text-white text-sm px-4 py-2 rounded-full hover:scale-105 transition-transform duration-300 z-20"
                   >
-                    <FaGlobe className="text-lg" />
                     Ver Página
                   </a>
                 )}
